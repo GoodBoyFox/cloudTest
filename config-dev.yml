@@ -1,1 +1,4 @@
-This is My Config-dev.yml  gwl  version=1
+config:
+  info:"This is My Config-dev.yml  gwl  version=1"
+
+
